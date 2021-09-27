@@ -10,4 +10,4 @@ __Преимущество Prometheus от Zabbix:__
 - Prometheus query language, свой язык запросов.  
 - Service discovery. Prometheus отлично подходит для динамических систем, например Kubernetes.   
 - Exporters. Формат данных Prometheus поддерживает огромное количество софта.   
-- Highload. За счет TSDB, Prometheus может принять и обработать большое количество метрик.
+- Highload. За счет TSDB, Prometheus может принять и обработать несравнимо больше метрик, чем Zabbix.
